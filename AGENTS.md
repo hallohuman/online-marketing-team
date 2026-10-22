@@ -32,5 +32,6 @@ and it pokes the lead when the review file changes. Without it, every handoff is
 
 ```
 - [ ] 2026-10-27 newsletter: onboarding tips | owner: @writer | channel: email | location: drafts/onboarding.md | accept: 300-450 words, brand voice, one call to action
-- [x] 2026-10-24 launch post | owner: @writer | evidence: drafts/launch.md, 620 words, claims checked against reports/2026-10-launch.md
 ```
+
+A checked row names evidence that exists in this repository. The line above is a shape, not history.
